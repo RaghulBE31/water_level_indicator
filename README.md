@@ -1,5 +1,5 @@
 # water_level_indicator
-# NodeMCU Water Level Indicator
+
 
 ## Overview
 This project utilizes a NodeMCU (ESP8266) microcontroller to create a web server that displays the water level of a tank in real-time. The water level is measured using an ultrasonic sensor (HC-SR04) or a water level sensor, and the data is presented in a visually interactive web interface.
